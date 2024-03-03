@@ -9,16 +9,21 @@ Driver drowsiness is a significant factor in road accidents globally. To address
 - Low-cost solution utilizing commonly available components.
 
 ## Components Used:
-- Arduino Uno microcontroller.
+
+- Arduino Uno microcontroller
+  
 ![uno](https://github.com/KeerthikaNagarajan/Enhanced-Driver-Alertness-Monitoring-System-with-Arduino-Uno/assets/93427089/46330dbc-57c5-4474-a758-c3856468eb66)
 
-- Eye blink sensor.
+- Eye blink sensor
+  
 ![eye](https://github.com/KeerthikaNagarajan/Enhanced-Driver-Alertness-Monitoring-System-with-Arduino-Uno/assets/93427089/07b697b8-137d-4e55-ad09-d3824a7e710d)
 
-- Buzzer.
+- Buzzer
+  
 ![buzzer](https://github.com/KeerthikaNagarajan/Enhanced-Driver-Alertness-Monitoring-System-with-Arduino-Uno/assets/93427089/c5536323-2d98-43c3-b620-76652c76e206)
 
 - Connecting wires.
+
 ![wire](https://github.com/KeerthikaNagarajan/Enhanced-Driver-Alertness-Monitoring-System-with-Arduino-Uno/assets/93427089/1c6d15a5-a892-4224-bfe7-913b531865c7)
 
 ## Integrated Components:
