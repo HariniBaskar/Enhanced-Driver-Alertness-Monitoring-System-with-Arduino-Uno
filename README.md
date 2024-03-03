@@ -63,6 +63,12 @@ void loop() {
 }
 ```
 
+## Demonstration Video:
+
+https://github.com/KeerthikaNagarajan/Enhanced-Driver-Alertness-Monitoring-System-with-Arduino-Uno/assets/93427089/6554c113-079b-46af-9639-1445798b8ddf
+
+
+
 ## Testing Results:
 - The system successfully detected closed eyes with an accuracy of 95%.
 - The response time for alerting was measured to be less than 0.5 seconds.
